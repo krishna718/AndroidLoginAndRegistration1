@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_b632b17333594bda75777fffc44776721b90eb3b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="f056897a93d535fc107b55f0a376c6e897bc53c5">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9d60aee640efe4c62ff895898d0ce9a1a7468b38\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b9a4fc21545e19d5ec18ae35c8943ca90d005663">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_413c29851a5e4abecfd2cf244127859d6d723f70\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_e58b6b20954c34de12410bca96070f551d01657f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_fefefd64bb865f80ab5179a5dd47cec05894b1f6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_e36aa108b166c724f91c38631503704bb0956b89\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_d504fac1d1d50bbd1caaa66e6a000bd2c2a05b7b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_661e082d99790733f95a5a0137454f92aa369904\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Personal\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_e0efac41c7dcccedfe4a55133187033649e22edd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Personal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_8f611829db23397b7fae9a8cabfb6597ebe499a5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_c82262ece656066a4d17562bb3d9bae5ee066bd6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_6cc3be41ab9cca44f56aa45ded6083156fd62178\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_ea9dbc42c7d674ec145b9644fe85219f16c7e21f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_7ba37eec00fcc8d2783d005bdfdc5225a9bad4f9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_0022443b262113c22773c5c49bfc13d8c7c71aa5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_b5b7753acafd77a3004f402c3aec581660ce61ce\classes.dex" />
+    </item>
+
+</items>
